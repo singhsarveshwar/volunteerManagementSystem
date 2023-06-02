@@ -1,5 +1,3 @@
-Sure, here is a suggested structure for a README file:
-
 ---
 # Bus Process Simulation
 
@@ -36,18 +34,6 @@ gcc -o bus_simulation bus_simulation.c
 
 The program reads the passengers' data from the `records.txt` file and simulates two buses picking up passengers. It shows which signal each bus has sent and received and how many passengers each bus has transported.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
-
-Please modify the contents based on your project's specifics.
-Sure! Here is a README.md file for the provided program. 
 
 # Volunteer Schedule Management System
 
